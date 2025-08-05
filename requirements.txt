@@ -1,0 +1,9 @@
+numpy
+pandas
+matplotlib
+cartopy
+h5py
+xarray
+opencv-python
+geopy
+scipy
